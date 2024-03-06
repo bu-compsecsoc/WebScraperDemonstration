@@ -4,7 +4,7 @@
 The crawler will then alter the URL of the website to navigate through pagination.
 It is currently hard coded to stop after 35 pages.
 
-- **Drivers** can be located in the [web drivers](web drivers) folder, move the driver you require to the main directory
+- **Drivers** can be located in the [web drivers](./webDrivers) folder, move the driver you require to the main directory
 
 
 
